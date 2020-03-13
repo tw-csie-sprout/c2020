@@ -8,7 +8,7 @@
 | 基本知識、IDE | | [基本知識、IDE][hc-ide] |
 | 表達式與變數 | | [變數與運算][hc-var] |
 | 條件判斷 | [if-else][tp-if] | [if-else][hc-if] |
-| while 迴圈 | | [while][hc-while]<br>[do-while][hc-do-while]<br>[continue-break][hc-continue-break] |
+| while 迴圈 | [while/do-while][tp-while]| [while][hc-while]<br>[do-while][hc-do-while]<br>[continue-break][hc-continue-break] |
 
 [tp-all]: https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2020/Variable/#/
 [tp-all-yt]: https://www.youtube.com/watch?v=wRd69_847EQ
@@ -20,3 +20,4 @@
 [hc-while]: https://hackmd.io/@i2y3z9dITSa_Q_7V7h-AoA/B1l2D9EBI#/
 [hc-do-while]: https://hackmd.io/@3sM5hwzZQhSdPoJSYpIQGQ/HyDK7v8rL?type=slide#/
 [hc-continue-break]: https://hackmd.io/@3sM5hwzZQhSdPoJSYpIQGQ/ryoR4_LBL?type=slide#/
+[tp-while]: https://hackmd.io/@xaojl0HpRRmcQsSFqLobUA/SyQqzkVB8#/
