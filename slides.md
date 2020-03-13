@@ -18,5 +18,5 @@
 [tp-if]: https://drive.google.com/file/d/1FwAurFwlG-MbHKXqlQRn2akjl50jF80D/view?usp=sharing
 [hc-if]: https://hackmd.io/@i2y3z9dITSa_Q_7V7h-AoA/HJwSCKmSU
 [hc-while]: https://hackmd.io/@i2y3z9dITSa_Q_7V7h-AoA/B1l2D9EBI#/
-[hc-do-while]; https://hackmd.io/@3sM5hwzZQhSdPoJSYpIQGQ/HyDK7v8rL?type=slide#/
+[hc-do-while]: https://hackmd.io/@3sM5hwzZQhSdPoJSYpIQGQ/HyDK7v8rL?type=slide#/
 [hc-continue-break]: https://hackmd.io/@3sM5hwzZQhSdPoJSYpIQGQ/ryoR4_LBL?type=slide#/
