@@ -3,7 +3,7 @@
 ## 第一週投影片 03/07
 | 主題         | 北區                      | 竹區                           |
 | ------------ | ------------------------- | ------------------------------ |
-| 課程介紹     | [課程介紹](https://drive.google.com/file/d/1IJk9-NqwOl49vJnuhiONlzYMIBYEQNCk/view?usp=sharing)| [課程介紹][hc-intro] |
+| 課程介紹     | [課程介紹](https://drive.google.com/file/d/1IJk9-NqwOl49vJnuhiONlzYMIBYEQNCk/view?usp=sharing)[課程影片](https://youtu.be/_jmwQ4y2F4Y)| [課程介紹][hc-intro] |
 | C/CPP 介紹、IDE<br>表達式與變數 |  [如左][tp-all]<br>[課程影片][tp-all-yt] |  |
 | 基本知識、IDE | | [基本知識、IDE][hc-ide] |
 | 表達式與變數 | | [變數與運算][hc-var] |
