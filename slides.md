@@ -18,7 +18,7 @@
 | 主題         | 北區                      | 竹區                           |
 | ------------ | ------------------------- | ------------------------------ |
 | 條件判斷 | [if-else][tp-if] | [if-else][hc-if] |
-| while 迴圈 | [while/do-while][tp-while] | [while][hc-while]<br>[do-while][hc-do-while]<br>[continue-break][hc-continue-break] |
+| while 迴圈 | [while/do-while][tp-while]/ [課程影片][tp-while-yt] | [while][hc-while]<br>[do-while][hc-do-while]<br>[continue-break][hc-continue-break] |
 
 [tp-if]: https://drive.google.com/file/d/1FwAurFwlG-MbHKXqlQRn2akjl50jF80D/view?usp=sharing
 [hc-if]: https://hackmd.io/@i2y3z9dITSa_Q_7V7h-AoA/HJwSCKmSU
@@ -26,3 +26,4 @@
 [hc-do-while]: https://hackmd.io/@3sM5hwzZQhSdPoJSYpIQGQ/HyDK7v8rL?type=slide#/
 [hc-continue-break]: https://hackmd.io/@3sM5hwzZQhSdPoJSYpIQGQ/ryoR4_LBL?type=slide#/
 [tp-while]: https://hackmd.io/@xaojl0HpRRmcQsSFqLobUA/SyQqzkVB8#/
+[tp-while-yt]: https://youtu.be/J5XuucgameY
