@@ -27,3 +27,14 @@
 [hc-continue-break]: https://hackmd.io/@3sM5hwzZQhSdPoJSYpIQGQ/ryoR4_LBL?type=slide#/
 [tp-while]: https://hackmd.io/@xaojl0HpRRmcQsSFqLobUA/SyQqzkVB8#/
 [tp-while-yt]: https://youtu.be/J5XuucgameY
+
+## 第三週投影片 03/21
+| 主題         | 北區                      | 竹區                           |
+| ------------ | ------------------------- | ------------------------------ |
+| for loop | | [for loop][hc-for] |
+| array | | [1d-array][hc-array] |
+| 字元&字串 | | [字元、字串][hc-str] |
+
+[hc-for]: https://drive.google.com/open?id=1gVWRGxg_ooqqqPfu6fDXnL1wfOshqBgt6khmB8quOAY
+[hc-array]: https://drive.google.com/open?id=16UApRb4pREeUNM0neiW47H6_-4b7KV0bA6KPjBQ4GS8
+[hc-str]: https://hackmd.io/@htting/HJdALJME8#/
