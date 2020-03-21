@@ -40,5 +40,5 @@
 [hc-str]: https://hackmd.io/@htting/HJdALJME8#/
 [tp-cstr]: https://slides.com/arvinliu/char_string#/
 
-[tp-for]: slides/Presentation1.pptx
-[tp-array]: slides/Presentation1.pptx
+[tp-for]: https://drive.google.com/file/d/13uE0ofLCt1OIw1fs23eHkcx86osemqRX/view?usp=sharing
+[tp-array]: https://drive.google.com/file/d/13uE0ofLCt1OIw1fs23eHkcx86osemqRX/view?usp=sharing
