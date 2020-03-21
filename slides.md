@@ -33,8 +33,9 @@
 | ------------ | ------------------------- | ------------------------------ |
 | for loop | | [for loop][hc-for] |
 | array | | [1d-array][hc-array] |
-| 字元&字串 | | [字元、字串][hc-str] |
+| 字元&字串 |[字元、字串][tp-cstr] | [字元、字串][hc-str] |
 
 [hc-for]: https://drive.google.com/open?id=1gVWRGxg_ooqqqPfu6fDXnL1wfOshqBgt6khmB8quOAY
 [hc-array]: https://drive.google.com/open?id=16UApRb4pREeUNM0neiW47H6_-4b7KV0bA6KPjBQ4GS8
 [hc-str]: https://hackmd.io/@htting/HJdALJME8#/
+[tp-cstr]: https://slides.com/arvinliu/char_string#/
