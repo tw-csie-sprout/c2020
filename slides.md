@@ -42,3 +42,10 @@
 
 [tp-for]: https://drive.google.com/file/d/13uE0ofLCt1OIw1fs23eHkcx86osemqRX/view?usp=sharing
 [tp-array]: https://drive.google.com/file/d/13uE0ofLCt1OIw1fs23eHkcx86osemqRX/view?usp=sharing
+
+## 第四週投影片 03/28
+| 主題         | 北區                      | 竹區                           |
+| ------------ | ------------------------- | ------------------------------ |
+| 函數呼叫、字串(常用函式) | [函數呼叫、字串(常用函式)][] | [函數呼叫、字串(常用函式)][] |
+| 資料型態(float, double)、轉型 | [資料型態(float, double)、轉型][] | [資料型態(float, double)、轉型][] |
+| 多維陣列 |[多維陣列][] | [字元、字串][] |
