@@ -48,4 +48,7 @@
 | ------------ | ------------------------- | ------------------------------ |
 | 函數呼叫、字串(常用函式) | [函數呼叫、字串(常用函式)][] | [函數呼叫、字串(常用函式)][] |
 | 資料型態(float, double)、轉型 | [資料型態(float, double)、轉型][] | [資料型態(float, double)、轉型][] |
-| 多維陣列 |[多維陣列][] | [字元、字串][] |
+| 多維陣列 |[多維陣列][] | [多維陣列][] |
+
+[hc-kd-array]:https://drive.google.com/open?id=1FMmugSFFhox_uRrvuU0kbflVNeEhrF21
+[hc-data-type]:https://drive.google.com/open?id=1t_xD04WJgm0iYoh_-x1uruykeV7J_5A6
