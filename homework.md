@@ -33,7 +33,7 @@
 [neoj3291]: https://neoj.sprout.tw/problem/3291/
 [neoj801]: https://neoj.sprout.tw/problem/801/
 [neoj2333]: https://neoj.sprout.tw/problem/2333/
-[ neoj294 ]: https://neoj.sprout.tw/problem/294/
-[ neoj891 ]: https://neoj.sprout.tw/problem/891/
+[neoj294]: https://neoj.sprout.tw/problem/294/
+[neoj891]: https://neoj.sprout.tw/problem/891/
 [tp-hw1-review]: https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2020/HW-review/#/
 [hc-hw2-review]: https://slides.com/tunchinkao/deck/fullscreen
