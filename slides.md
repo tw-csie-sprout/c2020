@@ -1,13 +1,14 @@
 # 課程講義
 
 ## 第一週投影片 03/07
-| 主題         | 北區                      | 竹區                           |
-| ------------ | ------------------------- | ------------------------------ |
-| 課程介紹     | [課程介紹](https://drive.google.com/file/d/1IJk9-NqwOl49vJnuhiONlzYMIBYEQNCk/view?usp=sharing) / [課程影片](https://youtu.be/_jmwQ4y2F4Y)| [課程介紹][hc-intro] |
-| C/CPP 介紹、IDE<br>表達式與變數 |  [如左][tp-all] / [課程影片][tp-all-yt] |  |
+| 主題         | 北區        | 影片        | 竹區                           |
+| ------------ | ----------- | ----------- | ------------------------------ |
+| 課程介紹     | [課程介紹][tp-intro] \ [課程影片][tp-intro-yt] | [課程介紹][hc-intro] |
+| C/CPP 介紹、IDE<br>表達式與變數 |  [如左][tp-all] | [課程影片][tp-all-yt] |  |
 | 基本知識、IDE | | [基本知識、IDE][hc-ide] |
 | 表達式與變數 | | [變數與運算][hc-var] |
-
+[tp-intro]: https://drive.google.com/file/d/1IJk9-NqwOl49vJnuhiONlzYMIBYEQNCk/view?usp=sharing
+[tp-intro-yt]: https://youtu.be/_jmwQ4y2F4Y
 [tp-all]: https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2020/Variable/#/
 [tp-all-yt]: https://www.youtube.com/watch?v=wRd69_847EQ
 [hc-intro]: https://drive.google.com/open?id=1C_KV_Rg_SjJWLoly8uAo4CZXbwiCY1I5cd51ga0AHdA
@@ -15,10 +16,10 @@
 [hc-var]: https://drive.google.com/open?id=1PLvwt6VhLYT7YTqa-RhcmcCxe-j6Yirr7ULAo4Lllno
 
 ## 第二週投影片 03/14
-| 主題         | 北區                      | 竹區                           |
-| ------------ | ------------------------- | ------------------------------ |
-| 條件判斷 | [if-else][tp-if] | [if-else][hc-if] |
-| while 迴圈 | [while/do-while][tp-while]/ [課程影片][tp-while-yt] | [while][hc-while]<br>[do-while][hc-do-while]<br>[continue-break][hc-continue-break] |
+| 主題         | 北區        | 影片        | 竹區                           |
+| ------------ | ----------- | ----------- | ------------------------------ |
+| 條件判斷 | [if-else][tp-if] | | [if-else][hc-if] |
+| while 迴圈 | [while/do-while][tp-while] | [課程影片][tp-while-yt] | [while][hc-while]<br>[do-while][hc-do-while]<br>[continue-break][hc-continue-break] |
 
 [tp-if]: https://drive.google.com/file/d/1FwAurFwlG-MbHKXqlQRn2akjl50jF80D/view?usp=sharing
 [hc-if]: https://hackmd.io/@i2y3z9dITSa_Q_7V7h-AoA/HJwSCKmSU
@@ -29,26 +30,26 @@
 [tp-while-yt]: https://youtu.be/J5XuucgameY
 
 ## 第三週投影片 03/21
-| 主題         | 北區                      | 竹區                           |
-| ------------ | ------------------------- | ------------------------------ |
-| for loop | [for loop][tp-for] | [for loop][hc-for] |
-| array | [array][tp-array] | [1d-array][hc-array] |
-| 字元&字串 |[字元、字串][tp-cstr] | [字元、字串][hc-str] |
+| 主題         | 北區        | 影片        | 竹區                           |
+| ------------ | ----------- | ----------- | ------------------------------ |
+| for loop | [for loop][tp-for] | |  [for loop][hc-for] |
+| array | [array][tp-array] | | [1d-array][hc-array] |
+| 字元&字串 |[字元、字串][tp-cstr] | | [字元、字串][hc-str] |
 
 [hc-for]: https://drive.google.com/open?id=1gVWRGxg_ooqqqPfu6fDXnL1wfOshqBgt6khmB8quOAY
 [hc-array]: https://drive.google.com/open?id=16UApRb4pREeUNM0neiW47H6_-4b7KV0bA6KPjBQ4GS8
 [hc-str]: https://hackmd.io/@htting/HJdALJME8#/
 [tp-cstr]: https://slides.com/arvinliu/char_string#/
-
 [tp-for]: https://drive.google.com/file/d/13uE0ofLCt1OIw1fs23eHkcx86osemqRX/view?usp=sharing
 [tp-array]: https://drive.google.com/file/d/13uE0ofLCt1OIw1fs23eHkcx86osemqRX/view?usp=sharing
 
 ## 第四週投影片 03/28
-| 主題         | 北區                      | 竹區                           |
-| ------------ | ------------------------- | ------------------------------ |
-| 函數呼叫、字串(常用函式) | [函數呼叫、字串(常用函式)][] | [函數呼叫、字串(常用函式)][] |
-| 資料型態(float, double)、轉型 | [資料型態(float, double)、轉型][] | [資料型態(float, double)、轉型][] |
-| 多維陣列 |[多維陣列][] | [多維陣列][] |
+| 主題         | 北區        | 影片        | 竹區                           |
+| ------------ | ----------- | ----------- | ------------------------------ |
+| 函數呼叫 | [函數呼叫][] |   | [字串(常用函式)][] |
+| 字串(常用函式) | [字串(常用函式)][] | | [字串(常用函式)][] |
+| 資料型態(float, double)、轉型 | [資料型態(float, double)、轉型][]  | | [資料型態(float, double)、轉型][hc-kd-array] |
+| 多維陣列 |[多維陣列][] | [多維陣列][hc-data-type] |
 
 [hc-kd-array]:https://drive.google.com/open?id=1FMmugSFFhox_uRrvuU0kbflVNeEhrF21
 [hc-data-type]:https://drive.google.com/open?id=1t_xD04WJgm0iYoh_-x1uruykeV7J_5A6
