@@ -7,7 +7,7 @@
 | 0307 |  01  | [288-練習打字][neoj288], [289-福祿猴的反敗][neoj289] | [287-喵][neoj287], [800-西式稀釋稀世珍寶][neoj800] |  | [北區檢討投影片][tp-hw1-review] |
 | 0314 |  02  | [208-季節判斷-2015][neoj208], [893-數字塔][neoj893] | [3291-我就邊][neoj3291],[801-3n+1][neoj801]|  |[竹區檢討投影片][hc-hw2-review]|
 | 0321 |  03  | [891-次方與階乘][neoj891], [294-我愛零分][neoj294], [217-凱薩密碼][neoj217] | [2333-訊息處理][neoj2333], [462-圈圈...畫圈圈...畫圈圈就不會緊張了...][neoj462] |  |  |
-| 0328 |  04  |  |  |  |  |
+| 0328 |  04  | [214-踩地雷][neoj214], [894-姓名縮寫][neoj894] | [592-密碼強度][neoj592], [1024-Estimating p13−p13][neoj1024] |  |  |
 | 0404 |  05  |  |  |  |  |
 | 0411 |  06  |  |  |  |  |
 | 0418 |  07  |  |  |  |  |
@@ -29,11 +29,16 @@
 [neoj208]: https://neoj.sprout.tw/problem/208/
 [neoj893]: https://neoj.sprout.tw/problem/893/
 [neoj462]: https://neoj.sprout.tw/problem/462/
+[neoj214]: https://neoj.sprout.tw/problem/214/
+[neoj894]: https://neoj.sprout.tw/problem/894/
 
 [neoj3291]: https://neoj.sprout.tw/problem/3291/
 [neoj801]: https://neoj.sprout.tw/problem/801/
 [neoj2333]: https://neoj.sprout.tw/problem/2333/
 [neoj294]: https://neoj.sprout.tw/problem/294/
 [neoj891]: https://neoj.sprout.tw/problem/891/
+[neoj592]: https://neoj.sprout.tw/problem/592/
+[neoj1024]: https://neoj.sprout.tw/problem/1024/
+
 [tp-hw1-review]: https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2020/HW-review/#/
 [hc-hw2-review]: https://slides.com/tunchinkao/deck/fullscreen
