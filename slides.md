@@ -3,8 +3,8 @@
 ## 第一週投影片 03/07
 | 主題         | 北區        | 影片        | 竹區                           |
 | ------------ | ----------- | ----------- | ------------------------------ |
-| 課程介紹     | [課程介紹][tp-intro] \ [課程影片][tp-intro-yt] | [課程介紹][hc-intro] |
-| C/CPP 介紹、IDE<br>表達式與變數 |  [如左][tp-all] | [課程影片][tp-all-yt] |  |
+| 課程介紹     | [課程介紹][tp-intro] | [課程介紹][tp-intro-yt] | [課程介紹][hc-intro] |
+| C/CPP 介紹、IDE<br>表達式與變數 |  [如左][tp-all] | [如左][tp-all-yt] |  |
 | 基本知識、IDE | | [基本知識、IDE][hc-ide] |
 | 表達式與變數 | | [變數與運算][hc-var] |
 [tp-intro]: https://drive.google.com/file/d/1IJk9-NqwOl49vJnuhiONlzYMIBYEQNCk/view?usp=sharing
@@ -19,7 +19,7 @@
 | 主題         | 北區        | 影片        | 竹區                           |
 | ------------ | ----------- | ----------- | ------------------------------ |
 | 條件判斷 | [if-else][tp-if] | | [if-else][hc-if] |
-| while 迴圈 | [while/do-while][tp-while] | [課程影片][tp-while-yt] | [while][hc-while]<br>[do-while][hc-do-while]<br>[continue-break][hc-continue-break] |
+| while 迴圈 | [while/do-while][tp-while] | [while/do-while][tp-while-yt] | [while][hc-while]<br>[do-while][hc-do-while]<br>[continue-break][hc-continue-break] |
 
 [tp-if]: https://drive.google.com/file/d/1FwAurFwlG-MbHKXqlQRn2akjl50jF80D/view?usp=sharing
 [hc-if]: https://hackmd.io/@i2y3z9dITSa_Q_7V7h-AoA/HJwSCKmSU
@@ -46,10 +46,17 @@
 ## 第四週投影片 03/28
 | 主題         | 北區        | 影片        | 竹區                           |
 | ------------ | ----------- | ----------- | ------------------------------ |
-| 函數呼叫 | [函數呼叫][] |   | [字串(常用函式)][] |
-| 字串(常用函式) | [字串(常用函式)][] | | [字串(常用函式)][] |
-| 資料型態(float, double)、轉型 | [資料型態(float, double)、轉型][]  | | [資料型態(float, double)、轉型][hc-kd-array] |
-| 多維陣列 |[多維陣列][] | [多維陣列][hc-data-type] |
+| 函數呼叫 | [函數呼叫][tp-call] |   | [函數呼叫&字串(常用函式)][hc-call-cfunc] |
+| 字串(常用函式) | [字串(常用函式)][tp-cfunc] | | |
+| 資料型態(float, double)、轉型 | [資料型態(float, double)、轉型][tp-data-type]  | | [資料型態(float, double)、轉型][hc-kd-array] |
+| 多維陣列 |[多維陣列][tp-kd-array] | | [多維陣列][hc-data-type] |
+| 亂數 |[亂數][tp-rand] | |  |
 
+[tp-call]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=func_call_2020
+[tp-cfunc]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=cstring_2020
+[tp-rand]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=random_2020
+[tp-kd-array]: https://hackmd.io/@xaojl0HpRRmcQsSFqLobUA/SkEHEnu88#/
+[tp-data-type]: https://hackmd.io/@xaojl0HpRRmcQsSFqLobUA/BkdLcYu8U#/
+[hc-call-cfunc]: https://hackmd.io/@3sM5hwzZQhSdPoJSYpIQGQ/S1k1lKuL8#/
 [hc-kd-array]:https://drive.google.com/open?id=1FMmugSFFhox_uRrvuU0kbflVNeEhrF21
 [hc-data-type]:https://drive.google.com/open?id=1t_xD04WJgm0iYoh_-x1uruykeV7J_5A6
