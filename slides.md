@@ -46,17 +46,19 @@
 ## 第四週投影片 03/28
 | 主題         | 北區        | 影片        | 竹區                           |
 | ------------ | ----------- | ----------- | ------------------------------ |
-| 函數呼叫 | [函數呼叫][tp-call] |   | [函數呼叫&字串(常用函式)][hc-call-cfunc] |
+| 函數呼叫 | [函數呼叫][tp-call] | [全部][tp-w4-yt]  | [函數呼叫&字串(常用函式)][hc-call-cfunc] |
 | 字串(常用函式) | [字串(常用函式)][tp-cfunc] | | |
 | 資料型態(float, double)、轉型 | [資料型態(float, double)、轉型][tp-data-type]  | | [資料型態(float, double)、轉型][hc-kd-array] |
 | 多維陣列 |[多維陣列][tp-kd-array] | | [多維陣列][hc-data-type] |
-| 亂數 |[亂數][tp-rand] | |  |
+| 亂數 |[亂數][tp-rand] | [亂數][rand-yt] |  |
 
 [tp-call]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=func_call_2020
 [tp-cfunc]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=cstring_2020
 [tp-rand]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=random_2020
 [tp-kd-array]: https://hackmd.io/@xaojl0HpRRmcQsSFqLobUA/SkEHEnu88#/
 [tp-data-type]: https://hackmd.io/@xaojl0HpRRmcQsSFqLobUA/BkdLcYu8U#/
+[tp-w4-yt]: https://www.youtube.com/watch?v=2N1O_WUqYWM
+[rand-yt]: https://www.youtube.com/watch?v=aTexYMDesxk
 [hc-call-cfunc]: https://hackmd.io/@3sM5hwzZQhSdPoJSYpIQGQ/S1k1lKuL8#/
 [hc-kd-array]:https://drive.google.com/open?id=1FMmugSFFhox_uRrvuU0kbflVNeEhrF21
 [hc-data-type]:https://drive.google.com/open?id=1t_xD04WJgm0iYoh_-x1uruykeV7J_5A6
