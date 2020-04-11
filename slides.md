@@ -64,3 +64,16 @@
 [hc-call-cfunc]: https://hackmd.io/@3sM5hwzZQhSdPoJSYpIQGQ/S1k1lKuL8#/
 [hc-kd-array]:https://drive.google.com/open?id=1FMmugSFFhox_uRrvuU0kbflVNeEhrF21
 [hc-data-type]:https://drive.google.com/open?id=1t_xD04WJgm0iYoh_-x1uruykeV7J_5A6
+
+## 第六週投影片 04/11
+| 主題         | 北區        | 影片        | 竹區                           |
+| ------------ | ----------- | ----------- | ------------------------------ |
+| 函數編寫 | [Functions][tp-func] |  | [函數編寫][hc-func] |
+| Coding Style | [Coding Style][tp-coding-style] | | [Coding Style][hc-coding-style] |
+| 亂數 | | | [亂數][hc-rand] |
+
+[tp-func]: https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2020/Function/#/
+[tp-coding-style]: https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2020/CodingStyle/#/
+[hc-func]: https://hackmd.io/@polarz/S1eZfboDU#/
+[hc-coding-style]: https://hackmd.io/@polarz/BkSQrjawL#/
+[hc-rand]: https://hackmd.io/@polarz/B1Fsp0hDU#/
