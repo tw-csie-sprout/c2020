@@ -68,12 +68,14 @@
 ## 第六週投影片 04/11
 | 主題         | 北區        | 影片        | 竹區                           |
 | ------------ | ----------- | ----------- | ------------------------------ |
-| 函數編寫 | [函數編寫][tp-func] |  | [函數編寫][hc-func] |
-| Coding Style | [Coding Style][tp-coding-style] | | [Coding Style][hc-coding-style] |
+| 函數編寫 | [函數編寫][tp-func] | [直播影片（21:27）][tp-func-yt] | [函數編寫][hc-func] |
+| Coding Style | [Coding Style][tp-coding-style] | [直播影片（2:12:49）][tp-coding-style-yt] | [Coding Style][hc-coding-style] |
 | 亂數 | | | [亂數][hc-rand] |
 
 [tp-func]: https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2020/Function/#/
 [tp-coding-style]: https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2020/CodingStyle/#/
+[tp-func-yt]: https://youtu.be/sKtwK_zljfQ?t=1287
+[tp-coding-style-yt]: https://youtu.be/sKtwK_zljfQ?t=7969
 [hc-func]: https://hackmd.io/@polarz/S1eZfboDU#/
 [hc-coding-style]: https://hackmd.io/@polarz/BkSQrjawL#/
 [hc-rand]: https://hackmd.io/@polarz/B1Fsp0hDU#/
