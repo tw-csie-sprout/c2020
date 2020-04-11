@@ -68,7 +68,7 @@
 ## 第六週投影片 04/11
 | 主題         | 北區        | 影片        | 竹區                           |
 | ------------ | ----------- | ----------- | ------------------------------ |
-| 函數編寫 | [Functions][tp-func] |  | [函數編寫][hc-func] |
+| 函數編寫 | [函數編寫][tp-func] |  | [函數編寫][hc-func] |
 | Coding Style | [Coding Style][tp-coding-style] | | [Coding Style][hc-coding-style] |
 | 亂數 | | | [亂數][hc-rand] |
 
