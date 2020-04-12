@@ -48,8 +48,8 @@
 | ------------ | ----------- | ----------- | ------------------------------ |
 | 函數呼叫 | [函數呼叫][tp-call] | [函數呼叫][tp-call-yt]  | [函數呼叫&字串(常用函式)][hc-call-cfunc] |
 | 字串(常用函式) | [字串(常用函式)][tp-cfunc] | [字串(常用函式)][tp-cfunc-yt] | |
-| 資料型態(float, double)、轉型 | [資料型態(float, double)、轉型][tp-data-type]  | [全部直播][tp-w4-yt] | [資料型態(float, double)、轉型][hc-kd-array] |
-| 多維陣列 |[多維陣列][tp-kd-array] | | [多維陣列][hc-data-type] |
+| 資料型態(float, double)、轉型 | [資料型態(float, double)、轉型][tp-data-type]  | [全部直播][tp-w4-yt] | [資料型態(float, double)、轉型][hc-data-type] |
+| 多維陣列 |[多維陣列][tp-kd-array] | | [多維陣列][hc-kd-array] |
 | 亂數 |[亂數][tp-rand] | [亂數][rand-yt] |  |
 
 [tp-call]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=func_call_2020
