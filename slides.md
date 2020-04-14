@@ -5,8 +5,8 @@
 | ------------ | ----------- | ----------- | ------------------------------ |
 | 課程介紹     | [課程介紹][tp-intro] | [課程介紹][tp-intro-yt] | [課程介紹][hc-intro] |
 | C/CPP 介紹、IDE<br>表達式與變數 |  [如左][tp-all] | [如左][tp-all-yt] |  |
-| 基本知識、IDE | | [基本知識、IDE][hc-ide] |
-| 表達式與變數 | | [變數與運算][hc-var] |
+| 基本知識、IDE | | [基本知識、IDE][hc-ide] | |
+| 表達式與變數 | | [變數與運算][hc-var] | |
 [tp-intro]: https://drive.google.com/file/d/1IJk9-NqwOl49vJnuhiONlzYMIBYEQNCk/view?usp=sharing
 [tp-intro-yt]: https://youtu.be/_jmwQ4y2F4Y
 [tp-all]: https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2020/Variable/#/
@@ -48,8 +48,8 @@
 | ------------ | ----------- | ----------- | ------------------------------ |
 | 函數呼叫 | [函數呼叫][tp-call] | [函數呼叫][tp-call-yt]  | [函數呼叫&字串(常用函式)][hc-call-cfunc] |
 | 字串(常用函式) | [字串(常用函式)][tp-cfunc] | [字串(常用函式)][tp-cfunc-yt] | |
-| 資料型態(float, double)、轉型 | [資料型態(float, double)、轉型][tp-data-type]  | [全部直播][tp-w4-yt] | [資料型態(float, double)、轉型][hc-kd-array] |
-| 多維陣列 |[多維陣列][tp-kd-array] | | [多維陣列][hc-data-type] |
+| 資料型態(float, double)、轉型 | [資料型態(float, double)、轉型][tp-data-type]  | [全部直播][tp-w4-yt] | [資料型態(float, double)、轉型][hc-data-type] |
+| 多維陣列 |[多維陣列][tp-kd-array] | | [多維陣列][hc-kd-array] |
 | 亂數 |[亂數][tp-rand] | [亂數][rand-yt] |  |
 
 [tp-call]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=func_call_2020
@@ -64,3 +64,18 @@
 [hc-call-cfunc]: https://hackmd.io/@3sM5hwzZQhSdPoJSYpIQGQ/S1k1lKuL8#/
 [hc-kd-array]:https://drive.google.com/open?id=1FMmugSFFhox_uRrvuU0kbflVNeEhrF21
 [hc-data-type]:https://drive.google.com/open?id=1t_xD04WJgm0iYoh_-x1uruykeV7J_5A6
+
+## 第六週投影片 04/11
+| 主題         | 北區        | 影片        | 竹區                           |
+| ------------ | ----------- | ----------- | ------------------------------ |
+| 函數編寫 | [函數編寫][tp-func] | [直播影片（21:27）][tp-func-yt] | [函數編寫][hc-func] |
+| Coding Style | [Coding Style][tp-coding-style] | [直播影片（2:12:49）][tp-coding-style-yt] | [Coding Style][hc-coding-style] |
+| 亂數 | | | [亂數][hc-rand] |
+
+[tp-func]: https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2020/Function/#/
+[tp-coding-style]: https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2020/CodingStyle/#/
+[tp-func-yt]: https://youtu.be/sKtwK_zljfQ?t=1287
+[tp-coding-style-yt]: https://youtu.be/sKtwK_zljfQ?t=7969
+[hc-func]: https://hackmd.io/@polarz/S1eZfboDU#/
+[hc-coding-style]: https://hackmd.io/@polarz/BkSQrjawL#/
+[hc-rand]: https://hackmd.io/@polarz/B1Fsp0hDU#/

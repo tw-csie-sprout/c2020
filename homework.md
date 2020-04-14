@@ -9,7 +9,7 @@
 | 0321 |  03  | [891-次方與階乘][neoj891], [294-我愛零分][neoj294], [217-凱薩密碼][neoj217] | [2333-訊息處理][neoj2333], [462-圈圈...畫圈圈...畫圈圈就不會緊張了...][neoj462] |  | [北區檢討投影片][tp-hw3-review], [北區檢討影片][tp-hw3-review-video] |
 | 0328 |  04  | [214-踩地雷][neoj214], [894-姓名縮寫][neoj894] | [592-密碼強度][neoj592], [1024-Estimating p13−p13][neoj1024] |  |  |
 | 0404 |  05  |  |  |  |  |
-| 0411 |  06  |  |  |  |  |
+| 0411 |  06  | [225-3n+1 Problem (II)][neoj225], [226-成績統計][neoj226] | [618-搶口罩比賽][neoj618], [514-我會因式分解][neoj514] |  |  |
 | 0418 |  07  |  |  |  |  |
 | 0425 |  08  |  |  |  |  |
 | 0502 |  09  |  |  |  |  |
@@ -22,9 +22,13 @@
 | 0627 |  17  |  |  |  |  |
 
 [neoj217]: https://neoj.sprout.tw/problem/217/
+[neoj225]: https://neoj.sprout.tw/problem/225/
+[neoj226]: https://neoj.sprout.tw/problem/226/
 [neoj288]: https://neoj.sprout.tw/problem/288/
 [neoj289]: https://neoj.sprout.tw/problem/289/
 [neoj287]: https://neoj.sprout.tw/problem/287/
+[neoj618]: https://neoj.sprout.tw/problem/618/
+[neoj514]: https://neoj.sprout.tw/problem/514/
 [neoj800]: https://neoj.sprout.tw/problem/800/
 [neoj208]: https://neoj.sprout.tw/problem/208/
 [neoj893]: https://neoj.sprout.tw/problem/893/
