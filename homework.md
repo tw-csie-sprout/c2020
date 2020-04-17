@@ -10,7 +10,7 @@
 | 0328 |  04  | [214-踩地雷][neoj214], [894-姓名縮寫][neoj894] | [592-密碼強度][neoj592], [1024-Estimating p13−p13][neoj1024] |  |  |
 | 0404 |  05  |  |  |  |  |
 | 0411 |  06  | [225-3n+1 Problem (II)][neoj225], [226-成績統計][neoj226] | [618-搶口罩比賽][neoj618], [514-我會因式分解][neoj514] |  |  |
-| 0418 |  07  |  |  |  |  |
+| 0418 |  07  |  | [895-成績統計II][neoj895] |  |  |
 | 0425 |  08  |  |  |  |  |
 | 0502 |  09  |  |  |  |  |
 | 0516 |  11  |  |  |  |  |
@@ -35,6 +35,7 @@
 [neoj462]: https://neoj.sprout.tw/problem/462/
 [neoj214]: https://neoj.sprout.tw/problem/214/
 [neoj894]: https://neoj.sprout.tw/problem/894/
+[neoj895]: https://neoj.sprout.tw/problem/895/
 
 [neoj3291]: https://neoj.sprout.tw/problem/3291/
 [neoj801]: https://neoj.sprout.tw/problem/801/
