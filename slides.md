@@ -79,3 +79,13 @@
 [hc-func]: https://hackmd.io/@polarz/S1eZfboDU#/
 [hc-coding-style]: https://hackmd.io/@polarz/BkSQrjawL#/
 [hc-rand]: https://hackmd.io/@polarz/B1Fsp0hDU#/
+
+## 第七週投影片 04/18
+| 主題         | 北區        | 影片        | 竹區                           |
+| ------------ | ----------- | ----------- | ------------------------------ |
+| struct |  |  | [struct][hc-struct] |
+| Qualifier |  |  | [Qualifier][hc-Qualifier] |
+|  | | |  |
+
+[hc-struct]: https://docs.google.com/presentation/d/1TyKgsX0Mu1dYX_XtKla1ix1x_LFBKm_-/edit#slide=id.p1
+[hc-Qualifier]: https://docs.google.com/presentation/d/1HlB2myRodDgGFw7jJyif5PxM1ddsXOmK/edit#slide=id.p1
