@@ -83,10 +83,10 @@
 ## 第七週投影片 04/18
 | 主題         | 北區        | 影片        | 竹區                           |
 | ------------ | ----------- | ----------- | ------------------------------ |
-| struct | [tp-struct] |  | [hc-struct] |
-| 修飾子 | [tp-qualifier] |  | [hc-Qualifier] |
-| 標頭檔 | [tp-headerfile] | |  |
-| 變數生命週期 | [tp-scope] | |
+| struct | [struct][tp-struct] |  | [struct][hc-struct] |
+| 修飾子 | [修飾子][tp-qualifier] |  | [Qualifier][hc-Qualifier] |
+| 標頭檔 | [標頭檔][tp-headerfile] | |  |
+| 變數生命週期 | [變數生命週期][tp-scope] | |
 
 [hc-struct]: https://docs.google.com/presentation/d/1TyKgsX0Mu1dYX_XtKla1ix1x_LFBKm_-/edit#slide=id.p1
 [hc-Qualifier]: https://docs.google.com/presentation/d/1HlB2myRodDgGFw7jJyif5PxM1ddsXOmK/edit#slide=id.p1
