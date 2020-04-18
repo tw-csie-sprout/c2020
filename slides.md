@@ -85,7 +85,7 @@
 | ------------ | ----------- | ----------- | ------------------------------ |
 | struct | [struct][tp-struct] |  | [struct][hc-struct] |
 | 修飾子 | [修飾子][tp-qualifier] |  | [Qualifier][hc-Qualifier] |
-| 標頭檔 | [標頭檔][tp-headerfile] | |  | [header files][hc-headerfile]
+| 標頭檔 | [標頭檔][tp-headerfile] | |  | [標頭檔][hc-headerfile]
 | 變數生命週期 | [變數生命週期][tp-scope] | | [scope][hc-scope]
 
 [hc-struct]: https://docs.google.com/presentation/d/1TyKgsX0Mu1dYX_XtKla1ix1x_LFBKm_-/edit#slide=id.p1
