@@ -83,7 +83,7 @@
 ## 第七週投影片 04/18
 | 主題         | 北區        | 影片        | 竹區                           |
 | ------------ | ----------- | ----------- | ------------------------------ |
-| struct | [struct][tp-struct] |  | [struct][hc-struct] |
+| struct | [struct][tp-struct] | [直播影片（3:20:36）][tp-w7-yt] | [struct][hc-struct] |
 | 修飾子 | [修飾子][tp-qualifier] |  | [Qualifier][hc-Qualifier] |
 | 標頭檔 | [標頭檔][tp-headerfile] | |   [標頭檔][hc-headerfile]
 | 變數生命週期 | [變數生命週期][tp-scope] | | [scope][hc-scope]
@@ -94,6 +94,7 @@
 [tp-headerfile]: https://tw-csie-sprout.github.io/c2020/slides/headerfile/
 [tp-scope]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=scope_2020
 [tp-qualifier]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=qualifier_2020
+[tp-w7-yt]: https://www.youtube.com/watch?v=7CU0SHBtMVg
 [hc-headerfile]: https://hackmd.io/@i2y3z9dITSa_Q_7V7h-AoA/H1olBYIO8#/
 [hc-scope]: https://hackmd.io/@i2y3z9dITSa_Q_7V7h-AoA/r1yxk-IO8#/
 

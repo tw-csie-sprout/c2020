@@ -9,7 +9,7 @@
 | 0321 |  03  | [891-次方與階乘][neoj891], [294-我愛零分][neoj294], [217-凱薩密碼][neoj217] | [2333-訊息處理][neoj2333], [462-圈圈...畫圈圈...畫圈圈就不會緊張了...][neoj462] |  | [北區檢討投影片][tp-hw3-review], [北區檢討影片][tp-hw3-review-video] |
 | 0328 |  04  | [214-踩地雷][neoj214], [894-姓名縮寫][neoj894] | [592-密碼強度][neoj592], [1024-Estimating p13−p13][neoj1024] |  |  |
 | 0404 |  05  |  |  |  |  |
-| 0411 |  06  | [225-3n+1 Problem (II)][neoj225], [226-成績統計][neoj226] | [618-搶口罩比賽][neoj618], [514-我會因式分解][neoj514] |  |  |
+| 0411 |  06  | [225-3n+1 Problem (II)][neoj225], [226-成績統計][neoj226] | [618-搶口罩比賽][neoj618], [514-我會因式分解][neoj514] |  | [北區檢討投影片][tp-hw6-review] |
 | 0418 |  07  |  | [895-成績統計II][neoj895], [799-口罩預購系統][neoj799] |  |  |
 | 0425 |  08  |  |  |  |  |
 | 0502 |  09  |  |  |  |  |
@@ -50,3 +50,4 @@
 [hc-hw2-review]: https://slides.com/tunchinkao/deck/fullscreen
 [tp-hw3-review]: https://slides.com/arvinliu/sprout2020_hw3_review
 [tp-hw3-review-video]: https://www.youtube.com/watch?v=M7s2EQHbtqI
+[tp-hw6-review]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=514
