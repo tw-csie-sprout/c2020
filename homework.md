@@ -11,7 +11,7 @@
 | 0404 |  05  |  |  |  |  |
 | 0411 |  06  | [225-3n+1 Problem (II)][neoj225], [226-成績統計][neoj226] | [618-搶口罩比賽][neoj618], [514-我會因式分解][neoj514] |  | [北區檢討投影片][tp-hw6-review] |
 | 0418 |  07  |  | [895-成績統計II][neoj895], [799-口罩預購系統][neoj799] |  |  |
-| 0425 |  08  |  |  |  |  |
+| 0425 |  08  |  | [443-天天爬樓梯][neoj443], [346-大雄的最大公因數][neoj346] | [350-巴斯卡三角形][neoj350] |  |
 | 0502 |  09  |  |  |  |  |
 | 0516 |  11  |  |  |  |  |
 | 0523 |  12  |  |  |  |  |
@@ -36,6 +36,9 @@
 [neoj214]: https://neoj.sprout.tw/problem/214/
 [neoj894]: https://neoj.sprout.tw/problem/894/
 [neoj895]: https://neoj.sprout.tw/problem/895/
+[neoj443]: https://neoj.sprout.tw/problem/443/
+[neoj346]: https://neoj.sprout.tw/problem/346/
+[neoj350]: https://neoj.sprout.tw/problem/350/
 
 [neoj3291]: https://neoj.sprout.tw/problem/3291/
 [neoj801]: https://neoj.sprout.tw/problem/801/
