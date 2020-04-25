@@ -102,7 +102,7 @@
 | 主題         | 北區        | 影片        | 竹區                           |
 | ------------ | ----------- | ----------- | ------------------------------ |
 | 遞迴 | [遞迴][tp-recur] | | [遞迴][hc-recur] |
-| 大複習 | [北區大複習][tp-mid-review] | [直播影片][[tp-mid-review-yt]] | [竹區大複習][hc-mid-review] |
+| 大複習 | [北區大複習][tp-mid-review] | [直播影片][tp-mid-review-yt] | [竹區大複習][hc-mid-review] |
 
 
 [tp-recur]: https://slides.com/arvinliu/recur
