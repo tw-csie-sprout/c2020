@@ -98,10 +98,10 @@
 [hc-headerfile]: https://hackmd.io/@i2y3z9dITSa_Q_7V7h-AoA/H1olBYIO8#/
 [hc-scope]: https://hackmd.io/@i2y3z9dITSa_Q_7V7h-AoA/r1yxk-IO8#/
 
-## 第七週投影片 04/18
+## 第八週投影片 04/25
 | 主題         | 北區        | 影片        | 竹區                           |
 | ------------ | ----------- | ----------- | ------------------------------ |
-| 遞迴 | [遞迴][https://slides.com/arvinliu/recur] | | |
+| 遞迴 | [遞迴][https://slides.com/arvinliu/recur] | | [遞迴][https://hackmd.io/@3sM5hwzZQhSdPoJSYpIQGQ/H1bDy2auU?type=slide#/] |
 
 
 
