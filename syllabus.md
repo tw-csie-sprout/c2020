@@ -19,12 +19,12 @@
 ## 第二階段
 | 日期 | 週次 | 大作業     | 主題                                               |
 | :--: | :--: | :-------   | -------------------------------------------------- |
-| 0509 |  11  |            | 排序、二分搜、複雜度                      |
-| 0516 |  12  |            | 字串 (string)、串流 (file / string stream)             |
-| 0523 |  13  | 公布大作業   | 指標 (\*ptr)、指標與函數、參考                      |
-| 0530 |  14  |            | struct(\*ptr)、new/delete、linked-list
-| 0606 |  15  |            | template、STL (資料結構, vector, list, queue, stack)  |
-| 0613 |  16  | <font color="#F08080">Deadline</font>  | 遞迴、sort (cmp)、next_permutation、展望與回顧 |       
-| 0620 |  10  |            | <font color="#f00">補課放假</font>                                  |
+| 0509 |  10  |            | 排序、二分搜、複雜度                      |
+| 0516 |  11  |            | 字串 (string)、串流 (file / string stream)             |
+| 0523 |  12  | 公布大作業   | 指標 (\*ptr)、指標與函數、參考                      |
+| 0530 |  13  |            | struct(\*ptr)、new/delete、linked-list
+| 0606 |  14  |            | template、STL (資料結構, vector, list, queue, stack)  |
+| 0613 |  15  | <font color="#F08080">Deadline</font>  | 遞迴、sort (cmp)、next_permutation、展望與回顧 |       
+| 0620 |  16  |            | <font color="#f00">補課放假</font>                                  |
 | 0627 |  17  |            | <font color="#f00">因端午連假，故本週放假</font>                      |
 | 0704 |  18  |            | 第二階段檢定考試                                   |
