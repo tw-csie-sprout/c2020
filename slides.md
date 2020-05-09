@@ -118,7 +118,7 @@
 | 二分搜 | [二分搜、排序][tp-binsort] | | |
 | 排序 | |  | [排序][hc-sort] |
 
-[tp-complx]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=complx_2020
+[tp-complx]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=complexity_2020
 [tp-binsort]: https://slides.com/jt94/sortingbinarysearch#/
 [hc-combin]: https://hackmd.io/@3sM5hwzZQhSdPoJSYpIQGQ/rJitRFbcU?type=slide#/
 [hc-sort]: https://hackmd.io/@polarz/ByB3kiG98
