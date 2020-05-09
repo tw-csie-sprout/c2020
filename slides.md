@@ -105,11 +105,20 @@
 | 遞迴 | [遞迴][tp-recur] | | [遞迴][hc-recur] |
 | 大複習 | [北區大複習][tp-mid-review] | [直播影片][tp-mid-review-yt] | [竹區大複習][hc-mid-review] |
 
-
 [tp-recur]: https://slides.com/arvinliu/recur
 [hc-recur]: https://hackmd.io/@3sM5hwzZQhSdPoJSYpIQGQ/H1bDy2auU?type=slide#/
-
 [tp-mid-review]: https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2020/Midterm-Review/#/
 [hc-mid-review]: https://hackmd.io/@polarz/BJpuFryYU
-
 [tp-mid-review-yt]: https://youtu.be/-0QKW8b-4PE
+
+## 第十週投影片 05/09
+| 主題         | 北區        | 影片        | 竹區                           |
+| ------------ | ----------- | ----------- | ------------------------------ |
+| 複雜度 | [複雜度][tp-complx] | | [複雜度、二分搜][hc-combin] |
+| 二分搜 | [二分搜、排序][tp-binsort] | | |
+| 排序 | |  | [排序][hc-sort] |
+
+[tp-complx]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=complx_2020
+[tp-binsort]: https://slides.com/jt94/sortingbinarysearch#/
+[hc-combin]: https://hackmd.io/@3sM5hwzZQhSdPoJSYpIQGQ/rJitRFbcU?type=slide#/
+[hc-sort]: https://hackmd.io/@polarz/ByB3kiG98
