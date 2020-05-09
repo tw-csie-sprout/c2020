@@ -13,7 +13,7 @@
 | 0418 |  07  |  | [895-成績統計II][neoj895], [799-口罩預購系統][neoj799] |  |  |
 | 0425 |  08  | [350-巴斯卡三角形][neoj350] | [443-天天爬樓梯][neoj443], [346-大雄的最大公因數][neoj346] |  |  |
 | 0502 |  09  | [369-書瑾與他的泡泡們][neoj369] | [1023-猩猩相惜][neoj1023], [2219-成績排名][neoj2219] |  |  |
-| 0509 |  10  |  |  |  |  |
+| 0509 |  10  | [Guess Number][neoj148]  |  |  |  |
 | 0516 |  11  |  |  |  |  |
 | 0523 |  12  |  |  |  |  |
 | 0530 |  13  |  |  |  |  |
@@ -52,6 +52,7 @@
 [neoj592]: https://neoj.sprout.tw/problem/592/
 [neoj1024]: https://neoj.sprout.tw/problem/1024/
 [neoj799]: https://neoj.sprout.tw/problem/799/
+[neoj148]: https://neoj.sprout.tw/problem/148/
 
 [tp-hw1-review]: https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2020/HW-review/#/
 [hc-hw2-review]: https://slides.com/tunchinkao/deck/fullscreen
