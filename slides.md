@@ -84,7 +84,7 @@
 ## 第七週投影片 04/18
 | 主題         | 北區        | 影片        | 竹區                           |
 | ------------ | ----------- | ----------- | ------------------------------ |
-| struct | [struct][tp-struct] | [直播影片（3:20:36）][tp-w7-yt] | [struct][hc-struct] |
+| struct | [struct][tp-struct] | [直播影片（3:08:09）][tp-w7-yt] | [struct][hc-struct] |
 | 修飾子 | [修飾子][tp-qualifier] |  | [Qualifier][hc-Qualifier] |
 | 標頭檔 | [標頭檔][tp-headerfile] | |   [標頭檔][hc-headerfile]
 | 變數生命週期 | [變數生命週期][tp-scope] | | [scope][hc-scope]
@@ -111,14 +111,30 @@
 [hc-mid-review]: https://hackmd.io/@polarz/BJpuFryYU
 [tp-mid-review-yt]: https://youtu.be/-0QKW8b-4PE
 
+## 第九週投影片 04/25
+| 主題       | 投影片           | 影片               | 
+| ---------- | ---------------- | ------------------ |
+| 階段考 pA  | [pA][phase1-pA]  | [題解影片][phase1] |
+| 階段考 pB  | [pB][phase1-pB]  |                    |
+| 階段考 pC  | [pC][phase1-pC]  |                    |
+| 階段考 pD  | [pD][phase1-pD]  |                    |
+
+[phase1]: https://youtu.be/jmfIL_R-DxM
+[phase1-pA]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=7127
+[phase1-pB]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=7128
+[phase1-pC]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=7129
+[phase1-pD]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=7130
+
 ## 第十週投影片 05/09
 | 主題         | 北區        | 影片        | 竹區                           |
 | ------------ | ----------- | ----------- | ------------------------------ |
-| 複雜度 | [複雜度][tp-complx] | | [複雜度、二分搜][hc-combin] |
-| 二分搜 | [二分搜、排序][tp-binsort] | | |
+| 複雜度 | [複雜度][tp-complx] | [直播影片（1:18:53）][tp-complx-yt] | [複雜度、二分搜][hc-combin] |
+| 二分搜 | [二分搜、排序][tp-binsort] | [二分搜、排序影片][tp-binsort-yt] | |
 | 排序 | |  | [排序][hc-sort] |
 
 [tp-complx]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=complexity_2020
 [tp-binsort]: https://slides.com/jt94/sortingbinarysearch#/
 [hc-combin]: https://hackmd.io/@3sM5hwzZQhSdPoJSYpIQGQ/rJitRFbcU?type=slide#/
 [hc-sort]: https://hackmd.io/@polarz/ByB3kiG98
+[tp-complx-yt]: https://youtu.be/Bk3lbWaQEzw
+[tp-binsort-yt]: https://youtu.be/1GksxaEjtfs
