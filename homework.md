@@ -14,7 +14,7 @@
 | 0425 |  08  | [350-巴斯卡三角形][neoj350] | [443-天天爬樓梯][neoj443], [346-大雄的最大公因數][neoj346] |  |  |
 | 0502 |  09  |  |  |  |  |
 | 0509 |  10  | [148-Guess Number][neoj148], [369-書瑾與他的泡泡們][neoj369] | [1023-猩猩相惜][neoj1023], [2219-成績排名][neoj2219] |  |  |
-| 0516 |  11  |  |  |  |  |
+| 0516 |  11  |  | [752-明明都是我先來的...][neoj752], [465-排序不簡單][neoj465] |  |  |
 | 0523 |  12  |  |  |  |  |
 | 0530 |  13  |  |  |  |  |
 | 0606 |  14  |  |  |  |  |
@@ -43,6 +43,8 @@
 [neoj369]: https://neoj.sprout.tw/problem/369/
 [neoj1023]: https://neoj.sprout.tw/problem/1023/
 [neoj2219]: https://neoj.sprout.tw/problem/2219/
+[neoj752]: https://neoj.sprout.tw/problem/752/
+[neoj465]: https://neoj.sprout.tw/problem/465/
 
 [neoj3291]: https://neoj.sprout.tw/problem/3291/
 [neoj801]: https://neoj.sprout.tw/problem/801/
