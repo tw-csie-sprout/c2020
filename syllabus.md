@@ -20,8 +20,8 @@
 | 日期 | 週次 | 大作業     | 主題                                               |
 | :--: | :--: | :-------   | -------------------------------------------------- |
 | 0509 |  10  |            | 排序、二分搜、複雜度                      |
-| 0516 |  11  |            | 字串 (string)、串流 (file / string stream)             |
-| 0523 |  12  | 公布大作業   | 指標 (\*ptr)、指標與函數、參考                      |
+| 0516 |  11  |            | 指標 (\*ptr)、指標與函數、參考            |
+| 0523 |  12  | 公布大作業   | C++ string、C++ file/string stream                      |
 | 0530 |  13  |            | struct(\*ptr)、new/delete、linked-list
 | 0606 |  14  |            | template、STL (資料結構, vector, list, queue, stack)  |
 | 0613 |  15  | <font color="#F08080">Deadline</font>  | 遞迴、sort (cmp)、next_permutation、展望與回顧 |       
