@@ -138,3 +138,11 @@
 [hc-sort]: https://hackmd.io/@polarz/ByB3kiG98
 [tp-complx-yt]: https://youtu.be/Bk3lbWaQEzw
 [tp-binsort-yt]: https://youtu.be/1GksxaEjtfs
+
+
+## 第十一週投影片 05/16
+| 主題         | 北區        | 影片        | 竹區                           |
+| ------------ | ----------- | ----------- | ------------------------------ |
+| 指標 | [指標][tp-ptr] |  | ] |
+
+[tp-ptr]: https://slides.com/arvinliu/pointer2020/
