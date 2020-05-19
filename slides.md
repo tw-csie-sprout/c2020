@@ -146,5 +146,4 @@
 | 指標 | [指標][tp-ptr] |  | [指標][hc-ptr] |
 
 [tp-ptr]: https://slides.com/arvinliu/pointer2020/
-[hc-ptr]:
-https://hackmd.io/@i2y3z9dITSa_Q_7V7h-AoA/H1lPJuqc8#/
+[hc-ptr]: https://hackmd.io/@i2y3z9dITSa_Q_7V7h-AoA/H1lPJuqc8#/
