@@ -151,5 +151,6 @@
 ## 第十一週投影片 05/16
 | 主題         | 北區        | 影片        | 竹區                           |
 | ------------ | ----------- | ----------- | ------------------------------ |
-| c++ string & stream | [c++ string & stream][tp-string] |  |  |
+| c++ string & stream | [c++ string & stream][tp-string] |  | [c++ string & stream][hc-string] |
 [tp-string]:https://drive.google.com/file/d/1XaGc51UJniKphhBU9Ft1m27lUrknh95h/view?usp=sharing
+[hc-string]:https://docs.google.com/presentation/d/1WeY3e5_6ZTO87XQRZ69DdnsQG6D_cWsPi_o_BHM8TKc/edit?usp=sharing
