@@ -147,3 +147,9 @@
 
 [tp-ptr]: https://slides.com/arvinliu/pointer2020/
 [hc-ptr]: https://hackmd.io/@i2y3z9dITSa_Q_7V7h-AoA/H1lPJuqc8#/
+
+## 第十一週投影片 05/16
+| 主題         | 北區        | 影片        | 竹區                           |
+| ------------ | ----------- | ----------- | ------------------------------ |
+| c++ string & stream | [c++ string & stream][tp-string] |  |  |
+[tp-string]:https://drive.google.com/file/d/1XaGc51UJniKphhBU9Ft1m27lUrknh95h/view?usp=sharing
