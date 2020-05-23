@@ -1,5 +1,9 @@
 # 大作業二
 
+- 2020.05.23 17:40 更新 bmp\_handler.cpp，使 CodeBlocks, Dev-Cpp 加上 -std=c++11 即可編譯
+- 2020.05.23 17:40 投影片加上 build.zip 和 Makefile 連結，可直接沿用大作業一的編譯方式
+
+
 ## 檔案連結與說明投影片：
 
 - 檔案連結：https://drive.google.com/open?id=1IJFbGgUDNh48kKna2ncagk1EMLBdrT4f
