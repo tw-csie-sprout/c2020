@@ -144,9 +144,12 @@
 | 主題         | 北區        | 影片        | 竹區                           |
 | ------------ | ----------- | ----------- | ------------------------------ |
 | 指標 | [指標][tp-ptr] |  | [指標][hc-ptr] |
+| 指標函式、Reference | [指標函式][tp-func-ptr] | [上課直播][tp-func-ptr-yt] |  |
 
 [tp-ptr]: https://slides.com/arvinliu/pointer2020/
 [hc-ptr]: https://hackmd.io/@i2y3z9dITSa_Q_7V7h-AoA/H1lPJuqc8#/
+[tp-func-ptr]: https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2020/Function-Pointer/#/
+[tp-func-ptr-yt]: https://youtu.be/oalTcT22SnQ
 
 ## 第十一週投影片 05/16
 | 主題         | 北區        | 影片        | 竹區                           |
