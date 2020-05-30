@@ -151,20 +151,22 @@
 [tp-func-ptr]: https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2020/Function-Pointer/#/
 [tp-func-ptr-yt]: https://youtu.be/oalTcT22SnQ
 
-## 第十一週投影片 05/16
+## 第十二週投影片 05/16
 | 主題         | 北區        | 影片        | 竹區                           |
 | ------------ | ----------- | ----------- | ------------------------------ |
 | c++ string & stream | [c++ string & stream][tp-string] |  | [c++ string & stream][hc-string] |
 [tp-string]:https://drive.google.com/file/d/1XaGc51UJniKphhBU9Ft1m27lUrknh95h/view?usp=sharing
 [hc-string]:https://docs.google.com/presentation/d/1WeY3e5_6ZTO87XQRZ69DdnsQG6D_cWsPi_o_BHM8TKc/edit?usp=sharing
 
-## 第十二週投影片 05/30
+## 第十三週投影片 05/30
 | 主題         | 北區        | 影片        | 竹區                           |
 | ------------ | ----------- | ----------- | ------------------------------ |
-|struct(ptr) | [struct(ptr)][tp-structptr] |  | |
+|struct(ptr) | [struct(ptr)][tp-structptr] |  | [struct(ptr), new/delete][hc-structptr] |
 |new/delete| [new/delete][tp-new-delete]   |  | |
-|linked-list|[linked-list][tp-linked-list] |  | |
+|linked-list|[linked-list][tp-linked-list] |  | [linked-list][hc-linked-list] |
 [tp-structptr]:https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=struct_ptr_2020
 [tp-new-delete]:https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=new_delete_2020
 [tp-linked-list]:https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2020/Linked-List/#/
+[hc-structptr]: https://drive.google.com/file/d/1aeajC2m433jueUlMx_QoSuiLjE2krc3L/view
+[hc-linked-list]: https://drive.google.com/file/d/1ylskUTkrcFUsFA5F_nN3VD-Kke6_8-B8/view?usp=drivesdk
 
