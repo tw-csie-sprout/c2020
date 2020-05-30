@@ -162,11 +162,12 @@
 | 主題         | 北區        | 影片        | 竹區                           |
 | ------------ | ----------- | ----------- | ------------------------------ |
 |struct(ptr) | [struct(ptr)][tp-structptr] |  | [struct(ptr), new/delete][hc-structptr] |
-|new/delete| [new/delete][tp-new-delete]   |  | |
+|new/delete| [new/delete][tp-new-delete]   | [上課直播][tp-linked-list-yt] | |
 |linked-list|[linked-list][tp-linked-list] |  | [linked-list][hc-linked-list] |
 [tp-structptr]:https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=struct_ptr_2020
 [tp-new-delete]:https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=new_delete_2020
 [tp-linked-list]:https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2020/Linked-List/#/
+[tp-linked-list-yt]: https://youtu.be/XCECsYjcpfw
 [hc-structptr]: https://drive.google.com/file/d/1aeajC2m433jueUlMx_QoSuiLjE2krc3L/view
 [hc-linked-list]: https://drive.google.com/file/d/1ylskUTkrcFUsFA5F_nN3VD-Kke6_8-B8/view?usp=drivesdk
 
