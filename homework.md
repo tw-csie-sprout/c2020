@@ -16,7 +16,7 @@
 | 0509 |  10  | [148-Guess Number][neoj148], [369-書瑾與他的泡泡們][neoj369] | [1023-猩猩相惜][neoj1023], [2219-成績排名][neoj2219] |  |  |
 | 0516 |  11  |  | [752-明明都是我先來的...][neoj752], [465-排序不簡單][neoj465] |  |  |
 | 0523 |  12  | [441-禮貌校園][neoj441], [442-向量加法][neoj442] | [689-序列分析][neoj689], [2334-字串處理][neoj2334] |  |  |
-| 0530 |  13  | [250-Linked-List][neoj250], [170-doubly linked list][neoj170] | [589-管理貨櫃][neoj589], [802-Concatenatable Lists][neoj802] |  |  |
+| 0530 |  13  | [250-Linked-List][neoj250], [170-doubly linked list][neoj170] | [589-管理貨櫃][neoj589], [802-Concatenatable Lists][neoj802] |  | [竹區檢討投影片][hc-hw13-review]|
 | 0606 |  14  |  |  |  |  |
 | 0613 |  15  |  |  |  |  |
 | 0620 |  16  |  |  |  |  |
@@ -69,3 +69,4 @@
 [tp-hw3-review-video]: https://www.youtube.com/watch?v=M7s2EQHbtqI
 [tp-hw6-review]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=514
 
+[hc-hw13-review]: https://docs.google.com/presentation/d/1KpB0Jjps3ZzD13INK0P3QE4rLvUMymlfVFdo3ARkorQ/edit?usp=sharing
