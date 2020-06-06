@@ -179,5 +179,5 @@
 |STL|  |  | [STL][hc-stl-container]|
 
 [hc-stl-container]:https://hackmd.io/@htting/HksIP5wiI#/
-[hc-template]:https://hackmd.io/csM8Ju8MR3ayiaImGwS8jA
+[hc-template]:https://hackmd.io/p/csM8Ju8MR3ayiaImGwS8jA
 
