@@ -175,9 +175,11 @@
 ## 第十四週投影片 06/06
 | 主題         | 北區        | 影片        | 竹區                           |
 | ------------ | ----------- | ----------- | ------------------------------ |
-|template |  |  | [Template][hc-template] |
-|STL|  |  | [STL][hc-stl-container]|
+|template |[Template][tp-template]  |  | [Template][hc-template] |
+|STL|[STL][tp-STL]  |  | [STL][hc-stl-container]|
 
 [hc-stl-container]:https://hackmd.io/@htting/HksIP5wiI#/
 [hc-template]:https://hackmd.io/csM8Ju8MR3ayiaImGwS8jA
+[tp-template]:https://tw-csie-sprout.github.io/c2020/slides/template/#/
+[tp-STL]:https://slides.com/jt94/stl
 
