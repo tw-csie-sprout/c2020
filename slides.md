@@ -175,8 +175,9 @@
 ## 第十四週投影片 06/06
 | 主題         | 北區        | 影片        | 竹區                           |
 | ------------ | ----------- | ----------- | ------------------------------ |
-|template |  |  |  |
+|template |  |  | [Template][hc-template] |
 |STL|  |  | [STL][hc-stl-container]|
 
 [hc-stl-container]:https://hackmd.io/@htting/HksIP5wiI#/
+[hc-template]:https://hackmd.io/csM8Ju8MR3ayiaImGwS8jA
 
