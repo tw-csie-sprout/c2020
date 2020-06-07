@@ -17,7 +17,7 @@
 | 0516 |  11  |  | [752-明明都是我先來的...][neoj752], [465-排序不簡單][neoj465] |  |  |
 | 0523 |  12  | [441-禮貌校園][neoj441], [442-向量加法][neoj442] | [689-序列分析][neoj689], [2334-字串處理][neoj2334] |  |  |
 | 0530 |  13  | [250-Linked-List][neoj250], [170-doubly linked list][neoj170] | [589-管理貨櫃][neoj589], [802-Concatenatable Lists][neoj802] |  | [北區檢討投影片][tp-hw13-review]、[竹區檢討投影片][hc-hw13-review]|
-| 0606 |  14  |  |  |  |  |
+| 0606 |  14  | [36-stack 練習][neoj36], [37-queue 練習][neoj37] | [19-大善人老闆救濟東南亞兒童][neoj19], [531-排隊停車][neoj531] |  |  |
 | 0613 |  15  |  |  |  |  |
 | 0620 |  16  |  |  |  |  |
 | 0627 |  17  |  |  |  |  |
@@ -71,3 +71,7 @@
 
 [hc-hw13-review]: https://docs.google.com/presentation/d/1KpB0Jjps3ZzD13INK0P3QE4rLvUMymlfVFdo3ARkorQ/edit?usp=sharing
 [tp-hw13-review]: https://csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2020/HW-Review-2/
+[neoj36]: https://neoj.sprout.tw/problem/36/
+[neoj37]: https://neoj.sprout.tw/problem/37/
+[neoj19]: https://neoj.sprout.tw/problem/19/
+[neoj531]: https://neoj.sprout.tw/problem/531/
