@@ -154,19 +154,21 @@
 ## 第十二週投影片 05/16
 | 主題         | 北區        | 影片        | 竹區                           |
 | ------------ | ----------- | ----------- | ------------------------------ |
-| c++ string & stream | [c++ string & stream][tp-string] |  | [c++ string & stream][hc-string] |
+| c++ string & stream | [c++ string & stream][tp-string] | [上課直播][tp-w12-yt] | [c++ string & stream][hc-string] |
 [tp-string]:https://drive.google.com/file/d/1XaGc51UJniKphhBU9Ft1m27lUrknh95h/view?usp=sharing
+[tp-w12-yt]:https://youtu.be/t3FrlGGaeJA
 [hc-string]:https://docs.google.com/presentation/d/1WeY3e5_6ZTO87XQRZ69DdnsQG6D_cWsPi_o_BHM8TKc/edit?usp=sharing
 
 ## 第十三週投影片 05/30
 | 主題         | 北區        | 影片        | 竹區                           |
 | ------------ | ----------- | ----------- | ------------------------------ |
-|struct(ptr) | [struct(ptr)][tp-structptr] |  | [struct(ptr), new/delete][hc-structptr] |
+|struct(ptr) | [struct(ptr)][tp-structptr] | [上課直播][tp-structptr-yt] | [struct(ptr), new/delete][hc-structptr] |
 |new/delete| [new/delete][tp-new-delete]   |  | |
 |linked-list|[linked-list][tp-linked-list] | [上課直播][tp-linked-list-yt] | [linked-list][hc-linked-list] |
 
 [tp-structptr]:https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=struct_ptr_2020
 [tp-new-delete]:https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=new_delete_2020
+[tp-structptr-yt]:https://youtu.be/9nQJpG82B50
 [tp-linked-list]:https://www.csie.ntu.edu.tw/~b06902029/reveal.js/Sprout/2020/Linked-List/#/
 [tp-linked-list-yt]: https://youtu.be/XCECsYjcpfw
 [hc-structptr]: https://drive.google.com/file/d/1aeajC2m433jueUlMx_QoSuiLjE2krc3L/view
