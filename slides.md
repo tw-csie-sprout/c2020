@@ -185,3 +185,10 @@
 [tp-template]:https://tw-csie-sprout.github.io/c2020/slides/template/#/
 [tp-STL]:https://slides.com/jt94/stl
 
+## 第十五週投影片 06/13
+| 主題         | 北區        | 影片        | 竹區                           |
+| ------------ | ----------- | ----------- | ------------------------------ |
+| | |  | |
+|回顧與展望|[Review and Future][tp-review-future]  |  ||
+
+[tp-review-future]:https://tw-csie-sprout.github.io/c2020/slides/review/#/
