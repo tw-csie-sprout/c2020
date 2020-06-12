@@ -191,4 +191,4 @@
 | | |  | |
 |回顧與展望|[Review and Future][tp-review-future]  |  ||
 
-[tp-review-future]:https://tw-csie-sprout.github.io/c2020/slides/review/#/
+[tp-review-future]:https://tw-csie-sprout.github.io/c2020/slides/review/index.html
