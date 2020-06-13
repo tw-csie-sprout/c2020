@@ -188,7 +188,10 @@
 ## 第十五週投影片 06/13
 | 主題         | 北區        | 影片        | 竹區                           |
 | ------------ | ----------- | ----------- | ------------------------------ |
-| | |  | |
+|遞迴2 |[遞迴2][tp-recursive2]| | |
+|STL 函式|[STL函式][tp-algo]| | |
 |回顧與展望|[Review and Future][tp-review-future]  |  ||
 
 [tp-review-future]:https://tw-csie-sprout.github.io/c2020/slides/review/index.html
+[tp-algo]:https://drive.google.com/file/d/1Ke8Bk2aeqxeMbntCDtm_Ve7apdCqQtKN/view?usp=sharing
+[tp-recurive2]:https://drive.google.com/file/d/1ycq9C--0a7JOM7RVzIcIl0tXyGZofs0j/view?usp=sharing
