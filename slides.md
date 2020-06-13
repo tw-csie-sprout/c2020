@@ -194,4 +194,4 @@
 
 [tp-review-future]:https://tw-csie-sprout.github.io/c2020/slides/review/index.html
 [tp-algo]:https://drive.google.com/file/d/1Ke8Bk2aeqxeMbntCDtm_Ve7apdCqQtKN/view?usp=sharing
-[tp-recurive2]:https://drive.google.com/file/d/1ycq9C--0a7JOM7RVzIcIl0tXyGZofs0j/view?usp=sharing
+[tp-recursive2]:https://drive.google.com/file/d/1ycq9C--0a7JOM7RVzIcIl0tXyGZofs0j/view?usp=sharing
