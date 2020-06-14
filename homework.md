@@ -18,7 +18,7 @@
 | 0523 |  12  | [441-禮貌校園][neoj441], [442-向量加法][neoj442] | [689-序列分析][neoj689], [2334-字串處理][neoj2334] |  |  |
 | 0530 |  13  | [250-Linked-List][neoj250], [170-doubly linked list][neoj170] | [589-管理貨櫃][neoj589], [802-Concatenatable Lists][neoj802] |  | [北區檢討投影片][tp-hw13-review]、[竹區檢討投影片][hc-hw13-review]|
 | 0606 |  14  | [36-stack 練習][neoj36], [37-queue 練習][neoj37] | [19-大善人老闆救濟東南亞兒童][neoj19], [531-排隊停車][neoj531] |  |  |
-| 0613 |  15  |  |  |  |  |
+| 0613 |  15  |  |[買盒子][neoj896], [撿紅點][neoj897]  |  |  |
 | 0620 |  16  |  |  |  |  |
 | 0627 |  17  |  |  |  |  |
 
@@ -75,3 +75,5 @@
 [neoj37]: https://neoj.sprout.tw/problem/37/
 [neoj19]: https://neoj.sprout.tw/problem/19/
 [neoj531]: https://neoj.sprout.tw/problem/531/
+[neoj896]: https://neoj.sprout.tw/problem/896/
+[neoj897]: https://neoj.sprout.tw/problem/897/
